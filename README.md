@@ -48,3 +48,4 @@ A curated list of awesome resources for marketers, including tools, guides, and 
 - **[Google Analytics](https://analytics.google.com/)** - Free web analytics service that tracks and reports website traffic.
 - **[Hotjar](https://www.hotjar.com/)** - Behavioral analytics and user feedback service that helps you understand the behavior of your website users.
 - **[Crazy Egg](https://www.crazyegg.com/)** - Website optimization and heatmap tool to understand how users interact with your website.
+- **[Understanding reach, views and engagement rate (French, Belgium)](https://followersacheter.be/guides/portee-vues-likes-taux-engagement)** - Practical guide to metric definitions, denominator examples, matched-period comparisons and limits of attributing sales to social counts.
